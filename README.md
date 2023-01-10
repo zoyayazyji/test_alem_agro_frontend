@@ -14,12 +14,3 @@
 * MUI
 * Для запуска frontend части - ***npm start***
 
-> Backend для регистрации пользователей выполнен с помощью
-* mongo
-* mongoose
-* express
-* nodemon
-* bcryptjs
-* cors
-* Для запуска backend части - ***npm run dev***
-
